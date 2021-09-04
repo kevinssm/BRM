@@ -1,7 +1,7 @@
 # BRM
 Proyecto para brm
 Descargar bd y archivo de codigo
-Montarlo codigo en un IDE
+Montar codigo en un IDE
 Ajustarle archivo bd para redirigir a la base de datos brm y al servidor que se use
 montar la bd con el nombre brm
 Se comienza por la creacion de productos, ya sea manual o de forma masiva (hay un archivo csv como ejemplo)
